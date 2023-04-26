@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(251, 241, 228);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    color:rgb(84, 26, 26);
+    font-size: medium;
+}
+ul{
+    color: brown;
+    font-weight: bold;
+}
+ol{
+    color: blue;
+    font-size: medium;
+}
+div{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: inherit;
+    color: rgb(29, 90, 70);
+}
